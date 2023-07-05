@@ -1,0 +1,13 @@
+{
+  "name": "component-library-angelinaschaffer",
+  "version": "1.0.0",
+  "description": "component-library-AngelinaSchaffer created by GitHub Classroom",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch --update src:public",
+    "build": "sass --no-source-map --stylecompressed src:public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
